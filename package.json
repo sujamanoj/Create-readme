@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "create-readme",
+  "version": "1.0.0",
+  "description": "generating readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujamanoj/Create-readme.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "suja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sujamanoj/Create-readme/issues"
+  },
+  "homepage": "https://github.com/sujamanoj/Create-readme#readme"
+}
